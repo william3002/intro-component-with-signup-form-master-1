@@ -74,6 +74,10 @@ form>p {
 
 .termos {
   margin-top: 10px;
+  color: hsl(246, 25%, 77%);
+  text-align: center;
+  font-size: 12px;
+}
 
 form>p>span {
   color: hsl(0, 100%, 74%);
